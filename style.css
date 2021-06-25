@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to right, #020210, #000004, #000000);
+    background-image: linear-gradient(to right, #0e0f11, #000102, #000000);
 }
 
 #nav-bar {
@@ -9,7 +9,7 @@ body {
 }
 
 .navbar {
-    background-image: linear-gradient(to right, #020210, #000004, #000000);
+    background-image: linear-gradient(to right, #0e0f11, #000102, #000000);
     padding: 0 !important;
 }
 
@@ -40,7 +40,7 @@ body {
 }
 
 #home {
-    background-image: linear-gradient(to right, #020210, #000004, #000000);
+    background-image: linear-gradient(to right, #0e0f11, #000102, #000000);
     color: #fff;
 }
 
@@ -73,13 +73,13 @@ body {
 
 .title {
     color: #fff;
-    background-image: linear-gradient(to right, #020210, #000004, #000000);
+    background-image: linear-gradient(to right, #0e0f11, #000102, #000000);
     margin-left: 70px;
 }
 
 
 #about {
-    background-image: linear-gradient(to right, #020210, #000004, #000000);
+    background-image: linear-gradient(to right, #0e0f11, #000102, #000000);
     color: #fff;
 }
 
@@ -93,7 +93,7 @@ body {
 
 
 #youtube {
-    background-image: linear-gradient(to right, #020210, #000004, #000000);
+    background-image: linear-gradient(to right, #0e0f11, #000102, #000000);
 
 }
 
@@ -162,7 +162,7 @@ body {
 footer {
     text-align: center;
     color: #6f7885;
-    background-image: linear-gradient(to right, #020210, #000004, #000000);
+    background-image: linear-gradient(to right, #0e0f11, #000102, #000000);
     margin-top: 2%;
 }
 .cv{
