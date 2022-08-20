@@ -171,6 +171,7 @@ footer {
     color: #fff;
 }
 #update{
-font-family: cursive;
-text-align: right
+    font-family: 'cursive', Times, serif;
+    text-align: right;
+    padding-right: 2.5%;
 }
